@@ -1,0 +1,10 @@
+# Secrets: never commit real keys (use .env.example instead)
+.env
+
+# The brief and sample proposal text must not be published
+*Candidate_Brief*.pdf
+samples/
+
+# Local tooling
+__pycache__/
+.venv/
