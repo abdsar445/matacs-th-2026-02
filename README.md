@@ -5,7 +5,7 @@
 | **Name** | M. Abdullah Sarfraz |
 | **Reference** | MATACS-TH-2026-02 |
 | **Role** | Associate Software Developer |
-| **Time actually spent** | TIME_SPENT |
+| **Time actually spent** | About 1 hour building the deliverables (00:07–01:05, 29 Oct 2026), plus earlier time on 28 Oct reading the brief and planning the approach |
 
 ## Files
 
@@ -33,4 +33,4 @@ There is no optional prototype in this repository. I spent the time on the desig
 
 ## How I used AI tools
 
-I used Claude (via Claude Code) to analyse the brief, calculate the scores under two formulas, draft each file and render the diagram. I reviewed each step and made the final calls myself, for example choosing to flag C rather than rank it. I disagreed when it proposed two separate layers for catching manipulation, because I thought one strict check should be enough. Working through it, I accepted that no single check can catch every rewording. I kept both layers, but made the write-up rest safety on the AI having no power to score or rank, with detection only sending attempts to a human.
+I used Claude (via Claude Code) to analyse the brief, calculate the scores, draft each file and render the diagram, while I reviewed each step and made the final calls, such as flagging C rather than ranking it. I disagreed with its plan for two separate manipulation checks, because I thought one strict check should be enough. After working through it, I accepted that no single check can catch every rewording, so I kept both but made the write-up rest safety on the AI having no power to score or rank.
